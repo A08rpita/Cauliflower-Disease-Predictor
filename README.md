@@ -42,7 +42,7 @@ CauliCare is a cutting-edge web application designed to assist farmers and agric
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/caulicare.git
+   git clone https://github.com/A08rpita/caulicare.git
    cd caulicare
    ```
 
