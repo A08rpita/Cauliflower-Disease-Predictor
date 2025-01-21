@@ -3,6 +3,13 @@
 
 CauliCare is a cutting-edge web application designed to assist farmers and agricultural enthusiasts in diagnosing diseases in cauliflower crops using deep learning technology. With just an image of a cauliflower leaf, users can identify potential diseases and take timely action to protect their crops.
 
+
+
+
+https://github.com/user-attachments/assets/218813cf-e7e4-41f4-a2b1-ce305d83cc41
+
+
+
 ## Features
 
 ### 📎 Image Upload
@@ -78,6 +85,10 @@ The model is trained on a curated dataset of cauliflower leaf images containing 
 - Add support for multilingual interfaces to cater to a diverse user base.
 - Expand the model to diagnose diseases in other vegetables and crops.
 - Include detailed guides for disease prevention and treatment.
+
+
+
+
 
 
 
