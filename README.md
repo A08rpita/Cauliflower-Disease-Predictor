@@ -1,4 +1,4 @@
-```markdown
+
 # CauliCare 🌿
 
 CauliCare is a cutting-edge web application designed to assist farmers and agricultural enthusiasts in diagnosing diseases in cauliflower crops using deep learning technology. With just an image of a cauliflower leaf, users can identify potential diseases and take timely action to protect their crops.
