@@ -6,7 +6,11 @@ CauliCare is a cutting-edge web application designed to assist farmers and agric
 
 
 
-https://github.com/user-attachments/assets/218813cf-e7e4-41f4-a2b1-ce305d83cc41
+
+
+
+
+https://github.com/user-attachments/assets/e07ed2ad-b957-4501-9f7a-2c23b967aa76
 
 
 
